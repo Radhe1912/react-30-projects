@@ -1,2 +1,5 @@
-profile-card-1/node_modules
-card-galary-2/node_modules
+*/node_modules
+*/README.md
+*/.gitignore
+*/public/vite.svg
+*/src/assets/react.svg
